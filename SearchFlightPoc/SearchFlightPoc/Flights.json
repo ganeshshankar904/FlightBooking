@@ -1,0 +1,22 @@
+[
+  {
+    "flightNumber": "BL123",
+    "departureCity": "Banglore",
+    "arrivalCity": "Chennai"
+  },
+  {
+    "flightNumber": "DL456",
+    "departureCity": "Delhi",
+    "arrivalCity": "Hyderabad"
+  },
+  {
+    "flightNumber": "AA789",
+    "departureCity": "London",
+    "arrivalCity": "New York"
+  },
+  {
+    "flightNumber": "BA101",
+    "departureCity": "Paris",
+    "arrivalCity": "Tokyo"
+  }
+]
